@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# 에디터 및 IDE 설정 파일 (VSCode, Visual Studio 등)
+.vscode/
+.vs/
+
+# 코딩 테스트 로컬 테스트용 입출력 파일
+input.txt
+output.txt
