@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Please write your code here.
+    int a = 97, b = 13;
+    cout << "97 - 13 = " << a - b;
+    
+    return 0;
+}
